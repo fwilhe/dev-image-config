@@ -1,4 +1,3 @@
-# dev-image-user-config-template
+# fwilhe/dev-image-config
 
-Template config for [gardenlinux/dev-image](https://github.com/gardenlinux/dev-image).
-Create a repo based on this template to make your own config.
+My personal config for [gardenlinux/dev-image](https://github.com/gardenlinux/dev-image).
